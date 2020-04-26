@@ -1,5 +1,6 @@
-body{
-background-color: white;
+
+	body{
+background-color: #83B4EF;
 margin-left: 0px;
 margin-right: 0px;
 margin-top: 1px;
@@ -89,6 +90,90 @@ margin-top: 1px;
 	font-size: 15px;
 }
 
+.aboutwordsc{
+	position: absolute;
+	width: 474px;
+	height: 534px;
+	left: 786px;
+	top: 225px;
+	font-family: ZCOOL QingKe HuangYou;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 30px;
+	color: #3F48CC;
+	font-size: 25px;
+}
+
+.aboutwords2c{
+	position: absolute;
+	width: 474px;
+	height: 534px;
+	left: 786px;
+	top: 355px;
+	font-family: ZCOOL QingKe HuangYou;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 30px;
+	color: #3F48CC;
+	font-size: 25px;
+}
+
+.aboutwords3c{
+	position: absolute;
+	width: 474px;
+	height: 534px;
+	left: 786px;
+	top: 545px;
+	font-family: ZCOOL QingKe HuangYou;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 30px;
+	color: #3F48CC;
+	font-size: 25px;
+}
+
+.aboutwordsj{
+	position: absolute;
+	width: 474px;
+	height: 534px;
+	left: 786px;
+	top: 225px;
+	font-family: Kosugi Maru;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 30px;
+	color: #3F48CC;
+	font-size: 20px;
+}
+
+.aboutwords2j{
+	position: absolute;
+	width: 474px;
+	height: 534px;
+	left: 786px;
+	top: 355px;
+	font-family: Kosugi Maru;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 30px;
+	color: #3F48CC;
+	font-size: 20px;
+}
+
+.aboutwords3j{
+	position: absolute;
+	width: 474px;
+	height: 534px;
+	left: 786px;
+	top: 545px;
+	font-family: Kosugi Maru;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 30px;
+	color: #3F48CC;
+	font-size: 20px;
+}
+
 #navBar{
 	width: 100%;
 	height: 50%;
@@ -97,7 +182,7 @@ margin-top: 1px;
 	right: 0%;
 	bottom: 0%;
 	position: static;
-	background-color: #83B4EF;
+	background-color: #3F48CC;
 }
 
 .introeng{
@@ -151,16 +236,45 @@ margin-top: 1px;
 	color: #3F48CC;
 }
 
+.footererickc{
+	font-family: ZCOOL QingKe HuangYou;
+	font-size: 35px;
+	color: #3F48CC;
+}
+
+.footererickj{
+	font-family: Kosugi Maru;
+	font-size: 35px;
+	color: #3F48CC;
+}
+
 .erickchentitle{
 	width: 303px;
 	height: 57px;
-	top: 0%;
-	left: 0%;
+	top: 5%;
+	left: 5%;
 	right: 0%;
 	bottom: 0%;
 	font-family: Righteous;
 	font-size: 55px;
-	color: #3F48CC;
+	color: white;
+	position: absolute;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 68px;
+	text-align: center;
+}
+
+.erickchentitlewtf{
+	width: 303px;
+	height: 57px;
+	top: 0%;
+	left: 5%;
+	right: 0%;
+	bottom: 0%;
+	font-family: Righteous;
+	font-size: 55px;
+	color: white;
 	position: absolute;
 	font-style: normal;
 	font-weight: normal;
@@ -171,13 +285,13 @@ margin-top: 1px;
 .chenjunruititle{
 	width: 252px;
 	height: 57px;
-	top: 0%;
+	top: 5%;
 	left: 25%;
 	right: 75%;
 	bottom: 0%;
 	font-family: ZCOOL QingKe HuangYou;
 	font-size: 55px;
-	color: #3F48CC;
+	color: white;
 	position: absolute;
 	font-style: normal;
 	font-weight: normal;
@@ -185,16 +299,34 @@ margin-top: 1px;
 	text-align: center;
 }
 
+.chenjunruititlewtf{
+	width: 252px;
+	height: 57px;
+	top: 0%;
+	left: 25%;
+	right: 75%;
+	bottom: 0%;
+	font-family: ZCOOL QingKe HuangYou;
+	font-size: 55px;
+	color: white;
+	position: absolute;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 68px;
+	text-align: center;
+}
+
+
 .erikkuchentitle{
 	width: 385px;
 	height: 57px;
-	top: 0%;
-	left: 50%;
+	top: 5%;
+	left: 43%;
 	right: 50%;
 	bottom: 0%;
 	font-family: Kosugi Maru;
 	font-size: 55px;
-	color: #3F48CC;
+	color: white;
 	position: absolute;
 	font-style: normal;
 	font-weight: normal;
@@ -202,3 +334,98 @@ margin-top: 1px;
 	text-align: right;
 }
 
+.erikkuchentitlewtf{
+	width: 385px;
+	height: 57px;
+	top: 0%;
+	left: 43%;
+	right: 50%;
+	bottom: 0%;
+	font-family: Kosugi Maru;
+	font-size: 55px;
+	color: white;
+	position: absolute;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 68px;
+	text-align: right;
+}
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+}
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 380px;
+  background-color: #3F48CC;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  top: -185px;
+  left: -105%;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+
+.w3-display-container:hover .overlay{
+	opacity: 0.95;
+}
+.textc {
+  color: white;
+  font-family: ZCOOL Qingke HuangYou;
+  font-size: 50px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+.textj {
+  color: white;
+  font-family: Kosugi Maru;
+  font-size: 50px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+.text {
+  color: white;
+  font-family: Comfortaa;
+  font-size: 50px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color:#3F48CC;
+
+}
+.image{
+	display: block;
+}
